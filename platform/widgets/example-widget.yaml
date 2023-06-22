@@ -1,0 +1,6 @@
+code: e72_example_widget
+titles:
+   en: E72 Example Widget
+   it: Widget d'esempio
+group: free
+customUi: <h2>Hi from the Entando 7.2 Example Widget</h2>

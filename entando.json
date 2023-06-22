@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "e72-simple-widget",
+    "version": "0.0.1",
+    "description": "Entando 72 Simple Widget",
+    "type": "bundle"
+}
